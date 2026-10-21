@@ -109,7 +109,7 @@ NEXT_PUBLIC_LEGAL_EMAIL=
 
 ```bash
 # Clone and install dependencies
-git clone https://github.com/SRUN-Sochettra/research-ai.git
+git clone https://github.com/SRUN-Sochettra/SynapseDoc.git
 cd research-ai
 npm install
 
